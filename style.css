@@ -1,0 +1,57 @@
+  body {
+    margin: 0;
+  }
+
+  section {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+  }
+
+    article {
+    width: 25rem;
+  }
+    svg {
+    width: 25rem;
+  }
+    .windowcolour {
+    fill: #D9D9D9;
+  }
+  .outlinemountain {
+    fill: aqua;
+  }
+  .backgroundcircle {
+    fill: #ED7A3C;
+  }
+  .outlinecircle {
+  stroke: #7BC3C2;
+  stroke-width: 10px;
+  }
+  .treecolour {
+    fill: green;
+  }
+  .rightpoly {
+    fill: #898277;
+  }
+
+  .leftpoly {
+    fill: #B8AD98;
+  }
+  .window {
+    fill: #D9D9D9;
+  }
+  .doortent {
+  fill: #D9D9D9;
+  stroke: grey;
+  }
+  .firewood {
+    fill: #B95825;
+  }
+  .mtns {
+    fill: #d9d9d9;
+  }
+  .backgroundcolour {
+    fill: white;
+  }
